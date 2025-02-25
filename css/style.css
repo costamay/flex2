@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&family=Merienda:wght@300..900&family=Playwrite+RO:wght@100..400&family=Tiny5&display=swap');
+#center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1{
+    font-family: "Merienda", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
